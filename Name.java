@@ -31,6 +31,7 @@ public class Name {
     }
 
     public String getTitle() {
+		return this.title;
         /* return Name's title */
     }
 
