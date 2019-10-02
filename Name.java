@@ -49,6 +49,7 @@ public class Name {
 
     public String getSurnameParent1() {
         /* return parent1's last name */
+		return this.surnameParent1;
     }
 
     public String getSurnameParent2() {
